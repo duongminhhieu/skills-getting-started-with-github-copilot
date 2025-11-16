@@ -77,7 +77,8 @@ section h3 {
 .activity-card ul {
   list-style-type: disc;
   padding-left: 20px;
-  margin-top: 10px;
+  margin-top: 5px;
+  margin-bottom: 8px;
 }
 
 .activity-card li {
